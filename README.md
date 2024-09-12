@@ -1,11 +1,7 @@
-
-- **`problem_1/`**: Contains solution for problem 1.
-  - `solution.py`: Python script with the solution.
-  - `README.md`: Explanation of the problem and solution approach.
-
-## Usage
-
-1. **Clone the Repo**:
-
-   ```bash
-   git clone https://github.com/your-username/Leetcode.git
+# LeetCode Solutions:
+This repository contains python solution for various leetcode problems
+## Structure:
+Each .py file  contains solution for a specific leetcode problem.The file names are based on the problem name or number
+## How to use:
+Clone the repository:
+```bash
