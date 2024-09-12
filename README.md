@@ -5,3 +5,4 @@ Each .py file  contains solution for a specific leetcode problem.The file names 
 ## How to use:
 Clone the repository:
 ```bash
+ https://github.com/Toheed2004/Leetcode.git
