@@ -11,6 +11,5 @@ class Solution(object):
          while(temp<=len(nums)-1):
             if(nums[j]+nums[temp]==target):
                 return (j,temp)
-            temp=temp+1
-            
+            temp=temp+1            
         
